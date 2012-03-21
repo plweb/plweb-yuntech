@@ -9,7 +9,7 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 程式語言教學實驗室
+title : 程式語言教學研究實驗室
 tagline: 雲林科技大學資訊管理系
 author :
   name : Name Lastname

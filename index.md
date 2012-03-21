@@ -3,6 +3,9 @@ layout: page
 title: PLWeb
 tagline: 程式設計練習系統
 ---
+{% include JB/setup %}
+
+PLWeb 是 Web-based 程式設計學習環境，提供大量 Java、C/C++、Scheme 練習題，強調 Learning by doing 的實作教學。
 
 ![PLWeb Editor](images/plweb-editor.png)
 
